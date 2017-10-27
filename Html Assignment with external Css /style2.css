@@ -1,0 +1,50 @@
+#header{
+    background-color:gray;
+    height: 10%;
+    color: white;
+}
+#header h1{
+    padding: 15px
+}
+#leftside{
+    background-color: gray;
+    color: white;
+    height: 100%;
+    width: 20%;
+    float: left
+}
+a{
+    margin-left: 40px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    
+}
+table tr td{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: gray;
+}
+table{
+    height: 100%;
+    width: 100%;
+}
+#leftSide *{
+    text-align: center;
+}
+#leftside h2{
+    padding-top:40px
+}
+#rightside{
+    background-color: lightgray;
+    width: 60%;
+    padding: 20px;
+    height: 90%;
+    margin-left: 25%;
+}
+
+#rightside #contents{
+width: 100%;
+height: 100%;
+}
